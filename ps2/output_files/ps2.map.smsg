@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at ps2.v(15): always construct contains both blocking and non-blocking assignments File: D:/fpgaworkspace/ps2/ps2.v Line: 15

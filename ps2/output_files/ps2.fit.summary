@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Jun 04 22:40:48 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : ps2
+Top-level Entity Name : ps2
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 105 / 6,272 ( 2 % )
+    Total combinational functions : 102 / 6,272 ( 2 % )
+    Dedicated logic registers : 72 / 6,272 ( 1 % )
+Total registers : 72
+Total pins : 6 / 92 ( 7 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
